@@ -1,0 +1,6 @@
+schedule1.txt
+map1.txt
+LU
+50
+5 3
+1 2 3 4 5
